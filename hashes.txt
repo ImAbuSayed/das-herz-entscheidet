@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das Herz entscheidet
+
+This log tracks the cryptographic history and versioning for the song **Das Herz entscheidet** (das-herz-entscheidet).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:28:05.900315 | `v1` | `f3f300503a25d9db5e119660b1a45d1e823d876d11756ebc33e3ebb199476b63` | `0095d08a90d19841178a229d7472d09f61bbe0b6ce6059e6239431873688b1c9` | `2026-06-28_das-herz-entscheidet-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
