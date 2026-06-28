@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-herz-entscheidet/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Das Herz entscheidet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-herz-entscheidet/) |
+| **Get License** | [Get License For Das Herz entscheidet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-herz-entscheidet/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Gib Gas auf der Straße, Babe, wir lassen die City hinter uns, yeah
+> Dein Vibe ist so crazy, ich spür', wie die Spannung tief in mir pumpt
+> Wir fliegen durchs Neonlicht, kein Limit mehr für uns zwei
+> Das Herz entscheidet heute, Baby, fühl dich unendlich frei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
